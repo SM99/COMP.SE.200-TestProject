@@ -4,7 +4,7 @@
   "description": "This is a project made for software testing course of Tampere university.",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --coverage"
   },
   "author": "",
   "license": "MIT",
