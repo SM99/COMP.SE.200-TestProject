@@ -1,7 +1,7 @@
 {
   "name": "software-testing-assignment",
   "version": "1.0.0",
-  "description": "## Purpose of this repository",
+  "description": "This is a project made for software testing course of Tampere university.",
   "main": "index.js",
   "scripts": {
     "test": "jest"
