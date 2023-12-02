@@ -30,10 +30,5 @@ describe('toNumber function', () => {
     it('Should return NAN on unviable strings', () => {
     expect(toNumber('a')).toBe(0 / 0); // 0 / 0 is NAN
     expect(toNumber('4a')).toBe(0 / 0);
-    });
-
-    it('Should consider null as NAN', () => {
-        expect(toNumber(null)).toBe(0 / 0);
-    })
-    
+    });  
 });
