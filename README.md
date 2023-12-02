@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/SM99/COMP.SE.200-TestProject/badge.svg?branch=main)](https://coveralls.io/github/SM99/COMP.SE.200-TestProject?branch=main)
+
 # Student template
 
 ## Purpose of this repository
